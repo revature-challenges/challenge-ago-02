@@ -2,7 +2,7 @@ package com.revature.challenge.problems;
 
 import com.revature.challenge.problems.one.ProblemOne;
 
-public class MainChallengeAgo02 {
+public class MainChallengeAgo02ProblemOne {
 
     public static void main(String[] args){
         String strA = "Minneapolis";
